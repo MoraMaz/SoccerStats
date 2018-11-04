@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="@string/opt1" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/opt2" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@android:drawable/ic_menu_more"
+            android:title="@string/opt3" />
+    </group>
+
+    <item android:title="@string/cnf2">
+        <menu>
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/opt4" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@android:drawable/ic_menu_help"
+                android:title="@string/opt5" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@android:drawable/ic_lock_power_off"
+                android:title="@string/opt6" />
+        </menu>
+    </item>
+
+</menu>

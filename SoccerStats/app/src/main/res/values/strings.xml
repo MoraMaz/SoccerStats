@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Soccer Stats</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="cnf1">Opciones</string>
+    <string name="cnf2">Configutraciones</string>
+    <string name="opt1">Home</string>
+    <string name="opt2">Noticias</string>
+    <string name="opt3">Misión y Visión</string>
+    <string name="opt4">Editar perfil</string>
+    <string name="opt5">Contáctanos</string>
+    <string name="opt6">Cerrar Sesión</string>
+    <string name="lbl1">Usuario</string>
+    <string name="lbl2">Contraseña</string>
+    <string name="btn1">Iniciar sesión</string>
+    <string name="blan"> </string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "454600032007",
+    "firebase_url": "https://soccer-stats-746b9.firebaseio.com",
+    "project_id": "soccer-stats-746b9",
+    "storage_bucket": "soccer-stats-746b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454600032007:android:66860825e98e9852",
+        "android_client_info": {
+          "package_name": "com.moramaz.www.soccerstats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454600032007-9ao05fa63ukln80tfusvg271g3c869c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkNwRXJmr4AGXElWtPl88qDSAXfOlyUzU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
